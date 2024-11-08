@@ -6,7 +6,7 @@ icon: circle-nodes
 
 ### /fwhitelist Error Fix
 
-Es kommt gerne mal vor, dass Geyser beim `/fwhitelist`-Befehl kein Ergebnis findet. Hier ist ein Fix dafür:
+Es kommt gerne mal vor, dass Geyser beim `/fwhitelist`-Befehl kein Ergebnis findet. Alternativ kann man die formatierte XUID des XBOX Live Acounts whitelisten
 
 {% embed url="https://www.cxkes.me/xbox/xuid" %}
 
