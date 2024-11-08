@@ -1,1 +1,0 @@
-[XUID](https://www.cxkes.me/xbox/xuid)
