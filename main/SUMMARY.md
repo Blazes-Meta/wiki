@@ -4,4 +4,4 @@
 
 ## Wichtiges und Unsortiertes
 
-* [Geyser & Floodgate](wichtiges-und-unsortiertes/integrations.md)
+* [Geyser & Floodgate](wichtiges-und-unsortiertes/geyser-floodgate.md)
