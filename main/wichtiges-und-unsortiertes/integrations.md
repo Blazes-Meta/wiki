@@ -1,5 +1,5 @@
 ---
-icon: plug-circle-plus
+icon: circle-nodes
 ---
 
 # Geyser & Floodgate

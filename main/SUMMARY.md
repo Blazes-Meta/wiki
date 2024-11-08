@@ -2,11 +2,6 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Wichtiges und Unsortiertes
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Geyser & Floodgate](basics/integrations.md)
+* [Geyser & Floodgate](wichtiges-und-unsortiertes/integrations.md)
