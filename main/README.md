@@ -1,7 +1,7 @@
 ---
 icon: house-blank
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: .gitbook/assets/Enderdragon_Fight_Wallpaper.webp
+coverY: 4
 layout:
   cover:
     visible: true
