@@ -40,7 +40,7 @@ aliases:
 
 fügt den Befehl `/icanhasbukkit` hinzu, der `bukkit:version` ausführt und entfernt `version` aus der Befehlsliste
 
-### Alternative mit Verwendung von Argumenten
+### Verwendung von Argumenten
 
 ```yaml
 aliases:
