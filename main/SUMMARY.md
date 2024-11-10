@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Start](README.md)
 
 ## Wichtiges und Unsortiertes
 

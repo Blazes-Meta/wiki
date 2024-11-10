@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: house-blank
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -18,12 +18,9 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Start
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## Ressourcen
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Plugins</strong></td><td>Modrinth</td><td></td><td></td><td><a href="https://modrinth.com/collection/752v5k5A">https://modrinth.com/collection/752v5k5A</a></td></tr><tr><td><strong>Datapacks</strong></td><td>Modrinth</td><td></td><td></td><td><a href="https://modrinth.com/collection/5HcN3b8g">https://modrinth.com/collection/5HcN3b8g</a></td></tr></tbody></table>
 
-### Ressourcen
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Plugins</strong></td><td></td><td></td><td></td><td><a href="https://modrinth.com/collection/752v5k5A">https://modrinth.com/collection/752v5k5A</a></td></tr><tr><td><strong>Datapacks</strong></td><td></td><td></td><td></td><td><a href="https://modrinth.com/collection/5HcN3b8g">https://modrinth.com/collection/5HcN3b8g</a></td></tr></tbody></table>
