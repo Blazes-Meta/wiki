@@ -4,4 +4,4 @@
 
 ## Wichtiges und Unsortiertes
 
-* [Geyser & Floodgate](wichtiges-und-unsortiertes/geyser-floodgate.md)
+* [Bedrock Spieler](wichtiges-und-unsortiertes/geyser-floodgate.md)
