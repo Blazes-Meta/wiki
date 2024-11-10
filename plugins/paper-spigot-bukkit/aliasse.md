@@ -6,9 +6,9 @@ Mit Befehls-Aliassen können einfach Befehle hinzugefügt werden, die dann als A
 Aliasse werden in `commands.yml` definiert. Dort können allerdings keine Berechtigungen verändert werden. Wenn der umschriebene Befehl nur von Operatoren benutzt werden kann, gilt das auch für den Alias.
 {% endhint %}
 
-### Beispiele
+## Beispiele
 
-#### Alternative hinzufügen
+### Alternative hinzufügen
 
 ```yaml
 aliases:
@@ -18,9 +18,7 @@ aliases:
 
 fügt den Befehl `/sleeppls` hinzu, der eine bestimmte Funktion ausführt.
 
-***
-
-#### Befehl entfernen
+### Befehl entfernen
 
 ```yaml
 aliases:
@@ -30,9 +28,7 @@ aliases:
 
 entfernt den Befehl `/summon` aus der Befehlsliste
 
-***
-
-#### Befehl ersetzen
+### Befehl ersetzen
 
 ```yaml
 aliases:
@@ -44,9 +40,7 @@ aliases:
 
 fügt den Befehl `/icanhasbukkit` hinzu, der `bukkit:version` ausführt und entfernt `version` aus der Befehlsliste
 
-***
-
-#### Alternative mit Verwendung von Argumenten
+### Alternative mit Verwendung von Argumenten
 
 ```yaml
 aliases:
@@ -54,8 +48,11 @@ aliases:
     - "bukkit:time $1-"
 ```
 
-überschreibt Minecrafts `/time` Befehl und nutzt den von bukkit mit dem ersten Argument
+überschreibt Minecrafts `/time` Befehl und nutzt den von Bukkit mit dem ersten Argument
 
-Important
-
+{% hint style="warning" %}
 Der Befehl kann so zwar genutzt werden, im Chat findet allerdings keine Syntaxkontrolle mehr statt und man erhält keine Vorschläge mehr
+{% endhint %}
+
+
+
