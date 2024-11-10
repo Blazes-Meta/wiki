@@ -2,6 +2,6 @@
 
 * [Start](README.md)
 
-## Wichtiges und Unsortiertes
+## Für Moderatoren <a href="#moderation" id="moderation"></a>
 
-* [Bedrock Spieler](wichtiges-und-unsortiertes/geyser-floodgate.md)
+* [Bedrock Spieler](moderation/geyser-floodgate.md)
