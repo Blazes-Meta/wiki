@@ -1,7 +1,7 @@
 ---
 icon: house-blank
-cover: .gitbook/assets/Enderdragon_Fight_Wallpaper.webp
-coverY: 4
+cover: .gitbook/assets/do-something-im-really-good-at (1).png
+coverY: -40
 layout:
   cover:
     visible: true
