@@ -2,22 +2,18 @@
 
 ### Teppich-, String-, TNT-Duper und ähnliche
 
-{% tabs %}
-{% tab title="config/paper-global.yml" %}
+{% code title="config/paper-global.yml" %}
 ```yaml
 unsupported-settings:
   allow-piston-duplication: false
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 ### Zerstören von unzerstörbaren Blöcken
 
-{% tabs %}
-{% tab title="config/paper-global.yml" %}
+{% code title="config/paper-global.yml" %}
 ```yaml
 unsupported-settings:
   allow-perm-block-break-exploits: false
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
