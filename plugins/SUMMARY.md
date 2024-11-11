@@ -9,3 +9,4 @@
 
 * [LuckPerms](https://luckperms.net/wiki/Home)
 * [TAB](https://github.com/NEZNAMY/TAB/wiki)
+* [Geyser & Floodgate](https://geysermc.org/wiki/)
