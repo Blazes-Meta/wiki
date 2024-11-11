@@ -19,8 +19,9 @@ Es kommt gerne mal vor, dass Geyser beim `/fwhitelist`-Befehl kein Ergebnis find
 ### `/lp user` mit Bedrock Spielern Error Fix
 
 {% hint style="success" %}
+Fix: Spielernamen in Anführungszeichen setzen\
 Fix: LuckPerms Editor nutzen
 {% endhint %}
 
-LuckPerms' `user`-Subcommand überprüft - warum auch immer -, ob das angegebene Argument ein gültiger Minecraft Spielername oder eine gültige UUID ist, was bedeutet, dass bei Bedrock-Spielern immer ein Fehler entsteht. Als funktionierende Alternative können die Nodes des Spielers über den Editor (`/lp editor`) bearbeitet werden. &#x20;
+LuckPerms' `user`-Subcommand überprüft - wenn `allow-invalid-usernames` in den LuckPerms Configs aktiviert ist -, ob das angegebene Argument ein gültiger Minecraft Spielername oder eine gültige UUID ist, was bedeutet, dass bei Bedrock-Spielern ein Fehler zurückgemeldet wird. Als funktionierende Alternative können die Nodes des Spielers über den Editor (`/lp editor`) bearbeitet werden. Dem GeyserMC-Wiki nach kann man den Spielernamen auch in Anführungszeichen setzen.
 
