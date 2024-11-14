@@ -5,6 +5,11 @@
 * [Exploits beschränken](README.md)
 * [Aliasse](paper-spigot-bukkit/aliasse.md)
 
+## Plugins
+
+* [Dynmap](plugins/dynmap/README.md)
+  * [Dynmap Wiki](https://github.com/webbukkit/dynmap/wiki)
+
 ## Plugin Wikis
 
 * [LuckPerms](https://luckperms.net/wiki/Home)
