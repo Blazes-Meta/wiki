@@ -2,7 +2,7 @@
 
 | Ereignis             | Datei                   | Eintrag                       |
 | -------------------- | ----------------------- | ----------------------------- |
-| Auth Server down     | config/paper-global.yml | `authentication-servers-down` |
+| Auth Servers down    | config/paper-global.yml | `authentication-servers-down` |
 | Connection throttled | config/paper-global.yml | `connection-throttle`         |
 | Fliegender Spieler   | config/paper-global.yml | `flying-player`               |
 | Fliegendes Fahrzeug  | config/paper-global.yml | `flying-vehicle`              |

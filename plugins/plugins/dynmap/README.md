@@ -1,6 +1,6 @@
 # Dynmap
 
-### Befehle
+### Marker Befehle
 
 * `/dmarker add id:<marker-id> <marker-label> icon:<icon-id> set:<markerset-id> x:<x-coord> y:<y-coord> z:<z-coord> world:<Worldname>`&#x20;
 * `/dmarker movehere id:<marker-id> set:<markerset-id>`

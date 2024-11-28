@@ -10,9 +10,6 @@
 
 * [Dynmap](plugins/dynmap/README.md)
   * [Dynmap Wiki](https://github.com/webbukkit/dynmap/wiki)
-
-## Plugin Wikis
-
+* [Geyser & Floodgate](https://geysermc.org/wiki/)
 * [LuckPerms](https://luckperms.net/wiki/Home)
 * [TAB](https://github.com/NEZNAMY/TAB/wiki)
-* [Geyser & Floodgate](https://geysermc.org/wiki/)
