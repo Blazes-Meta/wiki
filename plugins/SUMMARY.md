@@ -4,6 +4,7 @@
 
 * [Exploits beschränken](README.md)
 * [Aliasse](paper-spigot-bukkit/aliasse.md)
+* [Verbindungstrennungen](paper-spigot-bukkit/verbindungstrennungen.md)
 
 ## Plugins
 
