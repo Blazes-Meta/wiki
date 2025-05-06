@@ -6,7 +6,7 @@
 
 * [Exploits beschränken](<README (1).md>)
 * [Aliasse](paper-spigot-bukkit/aliasse.md)
-* [Verbindungstrennungen](paper-spigot-bukkit/verbindungstrennungen.md)
+* [Disconnect Messages](paper-spigot-bukkit/disconnect-messages.md)
 
 ## Plugins
 
