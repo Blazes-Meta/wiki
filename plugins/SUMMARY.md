@@ -6,6 +6,7 @@
 
 * [Disconnect Messages](technical/disconnect-messages.md)
 * [Aliasse](technical/aliasse.md)
+* [Server Optimization Guide](https://github.com/YouHaveTrouble/minecraft-optimization)
 
 ## Paper, Spigot & Bukkit <a href="#paper-spigot-bukkit" id="paper-spigot-bukkit"></a>
 
