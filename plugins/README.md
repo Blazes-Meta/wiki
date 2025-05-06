@@ -1,19 +1,9 @@
-# Exploits beschränken
+# Tuning Vanilla Features
 
-### Teppich-, String-, TNT-Duper und ähnliche
+#### Player-Interaction
 
-{% code title="config/paper-global.yml" %}
-```yaml
-unsupported-settings:
-  allow-piston-duplication: false
-```
-{% endcode %}
-
-### Zerstören von unzerstörbaren Blöcken
-
-{% code title="config/paper-global.yml" %}
-```yaml
-unsupported-settings:
-  allow-perm-block-break-exploits: false
-```
-{% endcode %}
+| Key                               | File              | Description                                                 |
+| --------------------------------- | ----------------- | ----------------------------------------------------------- |
+| `pvp` (bool)                      | server.properties | Globally toggles pvp                                        |
+| `enable-player-collisions` (bool) | paper-global.yml  | Globally toggles whether players can push each other around |
+|                                   |                   |                                                             |

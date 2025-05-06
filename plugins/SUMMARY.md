@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Tuning Vanilla Features](README.md)
+
 ## Paper, Spigot & Bukkit <a href="#paper-spigot-bukkit" id="paper-spigot-bukkit"></a>
 
-* [Exploits beschränken](README.md)
+* [Exploits beschränken](<README (1).md>)
 * [Aliasse](paper-spigot-bukkit/aliasse.md)
 * [Verbindungstrennungen](paper-spigot-bukkit/verbindungstrennungen.md)
 
