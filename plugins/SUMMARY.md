@@ -2,11 +2,14 @@
 
 * [Tuning Vanilla Features](README.md)
 
+## Technical
+
+* [Disconnect Messages](technical/disconnect-messages.md)
+* [Aliasse](technical/aliasse.md)
+
 ## Paper, Spigot & Bukkit <a href="#paper-spigot-bukkit" id="paper-spigot-bukkit"></a>
 
-* [Exploits beschränken](<README (1).md>)
-* [Aliasse](paper-spigot-bukkit/aliasse.md)
-* [Disconnect Messages](paper-spigot-bukkit/disconnect-messages.md)
+* [Restrict Exploits](paper-spigot-bukkit/restrict-exploits.md)
 
 ## Plugins
 
